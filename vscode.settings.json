@@ -1,0 +1,31 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.fontSize": 12,
+
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": false,
+    "**/bower_components": true,
+    "**/*.pyc": true,
+    "front/sites-base/angular2/**/*.js": true,
+    "**/*.svg": true,
+    "**/__pycache__/**": true
+  },
+  "editor.lineHeight": 22,
+  "editor.tabSize": 2,
+  "editor.rulers": [80,100],
+  "editor.minimap.enabled" : false,
+  "files.trimTrailingWhitespace": true,
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  "git.confirmSync": false,
+  "files.associations": {
+    "*.inc":"php"
+  },
+  "editor.wordWrap": false,
+  "workbench.sideBar.location": "left",
+  "window.zoomLevel": 0,
+  "explorer.openEditors.dynamicHeight": true,
+  "guides.enabled": false
+}
